@@ -1,0 +1,103 @@
+{
+  "files": [
+    {
+      "path": "assets/hop/full-game.mp4",
+      "bytes": 583040706,
+      "sha256": "6bae43d145a9b429513113c628c06a9e0d76efc46a2982857e54d011ebb18389",
+      "parts": [
+        {
+          "path": "chunks/hop-full-game.000.part",
+          "bytes": 50331648,
+          "sha256": "9f5fff4671658bd33bd49bd64096069b06f7791533f6a1a68b48da85f9002571"
+        },
+        {
+          "path": "chunks/hop-full-game.001.part",
+          "bytes": 50331648,
+          "sha256": "350238e225a50f9557481769925e1e1d6763f3eff1f0a3feea46d6f571f17e7c"
+        },
+        {
+          "path": "chunks/hop-full-game.002.part",
+          "bytes": 50331648,
+          "sha256": "f13882048501fae2b5902b446c29e1399af34760d7a3e2d3439c5786741ee52f"
+        },
+        {
+          "path": "chunks/hop-full-game.003.part",
+          "bytes": 50331648,
+          "sha256": "7b8866bc136a247ea417c1dd5d936adf9069afd24d343f2b9c0473e2b90533e6"
+        },
+        {
+          "path": "chunks/hop-full-game.004.part",
+          "bytes": 50331648,
+          "sha256": "a9ac05d82869c8468d59a2c1275698e14d4bc68838b7a49f7f8c3daea2701317"
+        },
+        {
+          "path": "chunks/hop-full-game.005.part",
+          "bytes": 50331648,
+          "sha256": "3b74a084619b6da1e7ddb053b7dc0b5b6607028c7a2c3ef44e8e0a5b7e57e444"
+        },
+        {
+          "path": "chunks/hop-full-game.006.part",
+          "bytes": 50331648,
+          "sha256": "16da41b0f02de526701b400cdb70891431d6d6e5f0231c58aa2364b1e4dbbf39"
+        },
+        {
+          "path": "chunks/hop-full-game.007.part",
+          "bytes": 50331648,
+          "sha256": "953fa78a085e685e762f0227201a07a61faa4f693b82acc947908cb8a888610d"
+        },
+        {
+          "path": "chunks/hop-full-game.008.part",
+          "bytes": 50331648,
+          "sha256": "e679d9f3ecc8fc0aa66ff4eccb12a2738b713d46cc20ed0668e66c70e492f945"
+        },
+        {
+          "path": "chunks/hop-full-game.009.part",
+          "bytes": 50331648,
+          "sha256": "a25e13cb3a398c2ce48d40e405f09a1c5e18ff8e15de3acc0fee899338b9a443"
+        },
+        {
+          "path": "chunks/hop-full-game.010.part",
+          "bytes": 50331648,
+          "sha256": "4b4973a8796d753aee77c1f311ef5011f78b5f4f236d7ce2ded080f74788cf30"
+        },
+        {
+          "path": "chunks/hop-full-game.011.part",
+          "bytes": 29392578,
+          "sha256": "69eef1d22067a53a5dfc48b47c4e27b49e9e932ba96369f972d2900308a776e9"
+        }
+      ]
+    },
+    {
+      "path": "assets/redream/full-experience-hd.mp4",
+      "bytes": 226545026,
+      "sha256": "76976880e264a07a8daf7383a61f7b4befdf6528302dbbe561a1b41477be8d89",
+      "parts": [
+        {
+          "path": "chunks/redream-full-experience.000.part",
+          "bytes": 50331648,
+          "sha256": "a42b3b642897a65d308c381602fa5500ca8382b3d502a35c8e1a659fb1b9b96d"
+        },
+        {
+          "path": "chunks/redream-full-experience.001.part",
+          "bytes": 50331648,
+          "sha256": "117e9fab754f6bda07001b2a0cc5358144d08c06a39203f7afc051a97b9f39bb"
+        },
+        {
+          "path": "chunks/redream-full-experience.002.part",
+          "bytes": 50331648,
+          "sha256": "39397b0accda268f43c98dce22309566cdb782f9ad959565c07dae1c8e4d8bd8"
+        },
+        {
+          "path": "chunks/redream-full-experience.003.part",
+          "bytes": 50331648,
+          "sha256": "105611679346478220da90aca8b2a50c2c6916d80ab4ef962eaf6369bc8100be"
+        },
+        {
+          "path": "chunks/redream-full-experience.004.part",
+          "bytes": 25218434,
+          "sha256": "5251a4b0ce77083d2c3acd59676b0fc7eaa096f4986e1527fe6742460077b5ff"
+        }
+      ]
+    }
+  ]
+}
